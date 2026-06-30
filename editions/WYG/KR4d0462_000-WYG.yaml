@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0462/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部五
+  hash: sha256:91d391b03400458fe4b5406ed6606e69862a8e4f767c40fe8478f37cc3ae4e00
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0462_WYG_000-1a, image: WYG1199/WYG1199-0707a.png}
+body:
+  text: 黙庵集别集類四元提要臣等謹案黙庵集五卷元安熈撰熈字敬仲藁城人少慕劉因之名欲從之游因亦願傳所學於熈會因卒不果然所學一以因為宗其門人蘇天爵作熈行狀稱朱子四書集註初至北方滹南王若虚起而辨之陳天祥益闡其説熈力與争天祥遂焚其書今天祥之書故在焚之之説雖涉於夸飾然熈之力崇朱學固於是可見也熈沒之後天爵輯其詩文而虞集為之序詩頗有格調雖時作理語而不涉語録惟冬日齋居五首及夀李翁八十詩不入體裁襍文皆篤實力學之言而傷於平㳫盖本無意於求工耳天爵行狀稱集十卷此本僅存詩文五卷或舊文散佚後人重為編綴歟乾隆四十六年十二月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:cd0d9cdc2188995a79216faaed330a32d904caccd27d648e417883b2cd6c8034
+metadata:
+  title: 默庵集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:10:31.865991'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0462/KR4d0462_000.txt
+hash: sha256:038cd0a48e78d21347c6a8953a7f26f6864109221b96f19e1e500e0663fb5975
